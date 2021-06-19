@@ -1,1 +1,1 @@
-# gitreposit
+# gitrepository
